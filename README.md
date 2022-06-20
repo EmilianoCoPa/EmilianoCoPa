@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EmilianoCoPa
+- 👀 I’m interested in IT Support, Python, SQL and Tableau
+- 🌱 I’m currently learning ...
+- 📫 How to reach me emiliano.colin.paez@gmail.com
